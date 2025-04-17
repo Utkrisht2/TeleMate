@@ -1,0 +1,4 @@
+venv/
+modules/__pycache__/
+sessions/
+config.ini

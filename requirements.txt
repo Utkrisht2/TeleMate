@@ -1,0 +1,11 @@
+configparser
+telethon
+pymongo
+google-generativeai
+pillow
+pdfplumber
+python-magic
+serpapi
+requests
+python-dotenv
+googletrans==4.0.0-rc1
